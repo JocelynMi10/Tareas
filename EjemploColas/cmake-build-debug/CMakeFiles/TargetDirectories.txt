@@ -1,0 +1,3 @@
+C:/Users/jocel/Documents/EjemploColas/cmake-build-debug/CMakeFiles/EjemploColas.dir
+C:/Users/jocel/Documents/EjemploColas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jocel/Documents/EjemploColas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
