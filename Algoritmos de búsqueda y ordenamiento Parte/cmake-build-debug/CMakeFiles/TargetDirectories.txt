@@ -1,0 +1,3 @@
+C:/Users/jocel/CLionProjects/EstructurasDatos/PracticaClase/cmake-build-debug/CMakeFiles/PracticaClase.dir
+C:/Users/jocel/CLionProjects/EstructurasDatos/PracticaClase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jocel/CLionProjects/EstructurasDatos/PracticaClase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
